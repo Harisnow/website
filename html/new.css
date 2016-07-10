@@ -1,0 +1,323 @@
+.base li{
+	display: inline;
+}
+.base h1
+{
+	margin-left: 100px;
+	margin-top: 25px;
+    font-size: 2.8em;
+    font-family: 'Niconne', cursive;
+    color: #252525;
+}
+.side a
+{
+    float: left;
+    padding-left: 50px;
+	text-decoration: none;
+	color: black;
+	font-family: sans-serif;
+}
+.side a:hover
+{
+	text-decoration: underline;
+	font-size: 20px;
+}
+.m
+{
+	float: left;
+	margin-top: 40px;
+	background: url(home.jpg) no-repeat;
+	min-width: 1260px;
+	height: 600px;
+	margin-left: 45px;
+}
+body{
+	background: indigo;
+}
+.nav{
+	float: left;
+	display: block;
+	color: red;
+}
+.main a{
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+.main li{
+	color: black;
+	float: left;
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	font-size: 20px;
+	line-height: 40px;
+	text-align:center;	
+	padding-right: 10px;
+}
+.main li a:hover{
+	cursor: pointer;
+	background-color: blue;
+}
+.main li ul li{
+	display: none;
+}
+
+.main li:hover ul li
+{
+display: block;	
+}
+.add{
+	width: 89%;
+	height: 500px;
+	opacity: .5;
+	background: white;
+	display: block;
+	float: left;
+}
+.add h3{
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+}
+.add 
+{
+	border: 1px solid white;
+	font-size: 30px;
+}
+.form
+{
+	margin-left: 40px;
+}
+.user
+{
+	font-size: 15px;
+	margin-right: 20px;	
+
+}
+.pass12{
+	margin-right: 20px;
+}
+.user12{
+	margin-right: 20px;
+}
+.login
+{
+	margin-bottom: 5px;
+}
+.go
+{
+	font-size: 20px;
+	color: red;
+	margin-left: 25px;
+
+}
+.user2
+{
+	font-size: 20px;
+	color: red;
+	margin-left: 25px;
+}
+.radio
+{
+	min-width: 400px;
+	margin-top: 20px;
+	float: left;
+}
+.r{
+	margin-left: 25px;
+}
+.u{
+	margin-left: 25px;
+}
+.f{
+	margin-top: 20px;
+	min-width: 500px;
+	display: inline;
+}
+.new1{
+	margin-top: 20px;
+}
+.new1 label
+{
+	font-size: 20px;
+	display: block;
+}
+
+.new2 {
+	float: right;
+	margin-top: -25px;
+	margin-left: 50px;
+}
+
+.t
+{
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	background:solid white;
+	width: 250px;
+}
+.pam{
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	background:solid white;
+	width: 250px;
+}
+.img
+{
+	margin-left: 150px;
+	cursor: pointer;
+	
+}
+.img:hover
+{
+	transform: rotate(180deg);
+}
+.add blockquote{
+	margin-left: 40px;
+}
+
+.cal{
+	margin-top: 40px;
+}
+.return{
+	margin-right:75px;
+}
+
+.age{
+	margin-top: 40px;
+}
+
+.eco{
+	margin-top: 40px;
+}
+
+.sub{
+	margin-top: 25px;
+	width: 100px;
+	font-size: 20px;
+	color: green;
+}
+
+.sub2{
+	margin-left: 100px;
+	margin-top: 25px;
+	width: 200px;
+	font-size: 20px;
+	color: red;
+	margin-right: 100px;
+}
+.dow{
+	text-decoration: none;
+	font-size: 20px;
+	color: brown;	
+}
+.grid_4{
+	margin-top: 30px;
+}
+.par1{
+margin-bottom: 20px;
+}
+.par2{
+margin-bottom: 20px;
+}
+.par3{
+margin-bottom: 20px;
+}
+.par4{
+margin-bottom: 20px;
+}
+.par5{
+margin-bottom: 20px;
+}
+.grid_8{
+	margin-top: 30px;
+}
+.container_12{
+	background: white;
+	clear: both;
+	height: 900px;
+}
+
+.foot{
+	padding: 0 10px;
+	border-top: solid 1px #d4d4d4;
+	height: 100px;
+}
+.foot li{
+	float: left;
+	padding-right: 15px;
+}
+
+.foot1{
+	margin-top: 20px;
+	margin-left: 180px;
+	border-right: 2px solid #cbdde7;
+}
+
+.foot2{
+	margin-top: 20px;
+	margin-left: 10px;
+	border-right: 2px solid #cbdde7;
+
+}
+.veri{
+	margin-top: -10px;
+	padding-bottom: 5px;
+	font-size: 12px;	
+}
+
+.foot3{
+	margin-top: 20px;
+	margin-left: 10px;
+	border-right: 2px solid #cbdde7;
+
+}
+
+.veri2{
+	margin-top: -10px;
+	padding-bottom: 5px;
+	font-size: 12px;	
+}
+
+.foot4{
+	margin-top: 20px;
+	margin-left: 10px;
+	border-right: 2px solid #cbdde7;
+
+}
+
+.veri3{
+	margin-top: -10px;
+	padding-bottom: 5px;
+	font-size: 12px;	
+}
+
+.foot5{
+	margin-top: 20px;
+	margin-left: 10px;
+	border-right: 2px solid #cbdde7;
+
+}
+
+.veri4{
+	margin-top: -10px;
+	padding-bottom: 5px;
+	font-size: 12px;	
+}
+.foot6{
+	margin-top: 20px;
+	margin-left: 50px;
+	width: 200px;
+
+}
+
+.veri5{
+	margin-top: -10px;
+	padding-bottom: 5px;
+	font-size: 20px;
+}
